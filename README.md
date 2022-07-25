@@ -1,2 +1,2 @@
 # eb-app-1
-Elastic Beanstalk aoolication 1
+Elastic Beanstalk application 1
