@@ -1,2 +1,2 @@
 # eb-app-1
-Elasticbean spp
+Elastic Beanstalk aoolication 1
